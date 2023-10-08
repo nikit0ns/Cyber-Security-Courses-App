@@ -1,1 +1,1 @@
-# Cyber-Security-Courses-App
+# Cyber Security Courses App
